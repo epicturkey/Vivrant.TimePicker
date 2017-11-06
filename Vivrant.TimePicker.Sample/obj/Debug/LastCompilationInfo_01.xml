@@ -1,0 +1,85 @@
+<LastCompilationInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/DotNetForHtml5.Compiler">
+  <TranspiledAssembliesInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>Vivrant.TimePicker.Sample</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Vivrant.TimePicker.Sample.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>6656</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-11-06T17:15:53.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\Vivrant.TimePicker.Sample.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>6161</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T17:15:59.910Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>mscorlib</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>5614240</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-09-02T01:45:23.081Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\mscorlib.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>769593</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:45.676Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>1026560</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:40.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>4697146</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:45.988Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>Vivrant.TimePicker</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Vivrant.TimePicker.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>8192</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-11-06T17:15:52.592Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\Vivrant.TimePicker.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>16311</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T17:15:59.925Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5.System.Xaml.dll</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xaml.dll.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>6144</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:32.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.System.Xaml.dll.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>11534</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:46.014Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5.System.dll</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.dll.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>43008</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:32.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.System.dll.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>189232</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:46.037Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5.System.ServiceModel.dll</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.ServiceModel.dll.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>13824</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:32.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.System.ServiceModel.dll.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>62459</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:46.051Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5.System.Xml.dll</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Xml.dll.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>28672</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:32.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.System.Xml.dll.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>115579</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:46.070Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+    <TranspiledAssemblyInfo>
+      <AssemblySimpleName>CSharpXamlForHtml5.System.Runtime.Serialization.dll</AssemblySimpleName>
+      <OriginalDLLFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\CSharpXamlForHtml5.System.Runtime.Serialization.dll.dll</OriginalDLLFileNameWithPath>
+      <OriginalDLLSizeInBytes>8192</OriginalDLLSizeInBytes>
+      <OriginalDLLTimeStampString>2017-10-28T20:09:30.000Z</OriginalDLLTimeStampString>
+      <ProducedJavaScriptFileNameWithPath>C:\Users\jturk\Documents\Visual Studio 2017\Projects\Vivrant.Controls\Vivrant.TimePicker.Sample\bin\Debug\Output\app-cshtml5\app\CSharpXamlForHtml5.System.Runtime.Serialization.dll.js</ProducedJavaScriptFileNameWithPath>
+      <ProducedJavaScriptFileSizeInBytes>24036</ProducedJavaScriptFileSizeInBytes>
+      <ProducedJavaScriptFileTimeStampString>2017-11-06T16:59:46.082Z</ProducedJavaScriptFileTimeStampString>
+    </TranspiledAssemblyInfo>
+  </TranspiledAssembliesInfo>
+</LastCompilationInfo>

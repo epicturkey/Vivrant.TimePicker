@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vivrant.TimePicker", "Vivrant.TimePicker\Vivrant.TimePicker.csproj", "{DCED96AC-B041-452E-9E51-8811385CB33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vivrant.TimePicker.Sample", "Vivrant.TimePicker.Sample\Vivrant.TimePicker.Sample.csproj", "{42AF2256-00A2-4CC2-A39A-5104F5A89061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCED96AC-B041-452E-9E51-8811385CB33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCED96AC-B041-452E-9E51-8811385CB33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCED96AC-B041-452E-9E51-8811385CB33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCED96AC-B041-452E-9E51-8811385CB33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AF2256-00A2-4CC2-A39A-5104F5A89061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AF2256-00A2-4CC2-A39A-5104F5A89061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AF2256-00A2-4CC2-A39A-5104F5A89061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AF2256-00A2-4CC2-A39A-5104F5A89061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
