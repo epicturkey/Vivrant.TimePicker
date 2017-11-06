@@ -32,13 +32,6 @@ namespace Vivrant.Controls
             var args = new PropertyChangedEventArgs(propName);
             this.PropertyChanged?.Invoke(this, args);
         }
-        private void OnDateChanged<T>(T oldFoo, T newFoo)
-        {
-            //superflous - not needed, but good for debugging
-            //debug
-            //if(!newFoo.Equals(oldFoo))
-            //    MessageBox.Show(String.Format("DateChanged {0}", newFoo));
-        }
         #endregion
         #region Loaded Event
         private void TimePicker_Loaded(object sender, RoutedEventArgs e)
@@ -55,7 +48,7 @@ namespace Vivrant.Controls
                 catch (Exception ex)
                 {
                     //invalid dt value
-                    this.Time = null;
+                    //this.Time = null;
                 }
             };
 
